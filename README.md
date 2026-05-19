@@ -75,11 +75,7 @@ I am a results-driven **Cloud & DevOps Engineer** with **6+ years of hands-on ex
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/gaurav-kumar-nitsri" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="32" height="32" align="absmiddle" />
-  </a>
+  <a href="https://www.linkedin.com/in/gaurav-kumar-nitsri" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="32" height="32" align="absmiddle" /></a>
   &nbsp;&nbsp;
-  <a href="mailto:gauravk.nitsri@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="32" height="32" align="absmiddle" />
-  </a>
+  <a href="mailto:gauravk.nitsri@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="32" height="32" align="absmiddle" /></a>
 </p>
