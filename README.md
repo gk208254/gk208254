@@ -1,7 +1,7 @@
 # Hi there, I'm Gaurav Kumar 👋
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0078D4&width=450&lines=Cloud+%26+DevOps+Engineer;Azure+Solutions+Architect;Infrastructure+as+Code+Advocate;Kubernetes+%26+GitOps+Practitioner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0078D4&width=450&lines=Cloud+%26+DevOps+Engineer;Azure+Solutions+Architect;Infrastructure+as+Code+Advocate" alt="Typing SVG" />
 </p>
 
 ---
